@@ -1,0 +1,27 @@
+{
+  "name": "@guseyn/cutie-iterator",
+  "version": "1.0.0",
+  "description": "Cutie extension for the iterable protocol in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guseyn/cutie-iterator.git"
+  },
+  "keywords": [
+    "cutie",
+    "iterator",
+    "iterable"
+  ],
+  "dependencies": {
+    "@guseyn/cutie": "1.4.0"
+  },
+  "author": "guseyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Guseyn/cutie-iterator/issues"
+  },
+  "homepage": "https://github.com/Guseyn/cutie-iterator#readme"
+}
