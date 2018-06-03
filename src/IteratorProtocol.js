@@ -16,3 +16,5 @@ class IteratorProtocol extends AsyncObject {
   }
 
 }
+
+module.exports = IteratorProtocol;

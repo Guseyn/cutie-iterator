@@ -16,3 +16,5 @@ class Next extends AsyncObject {
   }
 
 }
+
+module.exports = Next;

@@ -1,6 +1,6 @@
 {
   "name": "@guseyn/cutie-iterator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cutie extension for the iterable protocol in JavaScript.",
   "main": "index.js",
   "scripts": {
