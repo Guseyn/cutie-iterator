@@ -20,7 +20,7 @@ For more information about parameters in the async objects visit [MDN docs for I
 
 | Async Object | Async/sync call | Parameters(default value/description) | Representation result |
 | ------------- | ----------------| ---------- | --------------------- |
-| `IteratorProtocol` | `iterator[Symbol.iterator]()` | `iterator` | `object` |
+| `IteratorProtocol` | `iterator[Symbol.iterator]` | `iterator` | `object` |
 | `Next` | `iterator.next` | `iterator.next` | `object` |
 
 [npm-image]: https://img.shields.io/npm/v/@guseyn/cutie-object.svg
