@@ -23,7 +23,7 @@ For more information about parameters in the async objects visit [MDN docs for I
 | `IteratorProtocol` | `iterator[Symbol.iterator]` | `iterator` | `object` |
 | `Next` | `iterator.next` | `iterator.next` | `object` |
 
-[npm-image]: https://img.shields.io/npm/v/@guseyn/cutie-object.svg
-[npm-url]: https://npmjs.org/package/@guseyn/cutie-object
+[npm-image]: https://img.shields.io/npm/v/@guseyn/cutie-iterator.svg
+[npm-url]: https://npmjs.org/package/@guseyn/cutie-iterator
 
 
