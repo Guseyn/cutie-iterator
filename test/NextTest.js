@@ -2,7 +2,7 @@
 
 const {
   DeepStrictEqualAssertion
-} = require('@guseyn/cutie-assert');
+} = require('@cuties/assert');
 const {
   IteratorProtocol,
   Next
