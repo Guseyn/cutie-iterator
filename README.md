@@ -14,7 +14,7 @@ You can find examples of using this library in the [test directory](https://gith
 ```js
 const {
   // Needed async objects here from the table below
-} = require('@guseyn/cutie-iterator');
+} = require('@cuties/iterator');
 ```
 For more information about parameters in the async objects visit [MDN docs for Iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols).
 
@@ -23,7 +23,7 @@ For more information about parameters in the async objects visit [MDN docs for I
 | `IteratorProtocol` | `iterator[Symbol.iterator]` | `iterator` | `object` |
 | `Next` | `iterator.next` | `iterator.next` | `object` |
 
-[npm-image]: https://img.shields.io/npm/v/@guseyn/cutie-iterator.svg
-[npm-url]: https://npmjs.org/package/@guseyn/cutie-iterator
+[npm-image]: https://img.shields.io/npm/v/@cuties/iterator.svg
+[npm-url]: https://npmjs.org/package/@cuties/iterator
 
 
