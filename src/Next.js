@@ -1,20 +1,18 @@
 'use strict'
 
-const AsyncObject = require('@cuties/cutie').AsyncObject;
+const AsyncObject = require('@cuties/cutie').AsyncObject
 
 // Represented result is object
 class Next extends AsyncObject {
-
-  constructor(iterator) {
-    super(iterator);
+  constructor (iterator) {
+    super(iterator)
   }
 
-  definedSyncCall() {
+  definedSyncCall () {
     return (iterator) => {
-      return iterator.next();
+      return iterator.next()
     }
   }
-
 }
 
-module.exports = Next;
+module.exports = Next
