@@ -2,15 +2,15 @@
 
 const {
   DeepStrictEqualAssertion
-} = require('@cuties/assert');
+} = require('@cuties/assert')
 const {
   IteratorProtocol
-} = require('./../index');
+} = require('./../index')
 
-const str = "string";
+const str = 'string'
 
 new DeepStrictEqualAssertion(
   new IteratorProtocol(
     str
   ), str[Symbol.iterator]()
-).call();
+).call()
