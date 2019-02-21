@@ -8,7 +8,7 @@ class IteratorProtocol extends AsyncObject {
     super(iterator)
   }
 
-  definedSyncCall () {
+  syncCall () {
     return (iterator) => {
       return iterator[Symbol.iterator]()
     }

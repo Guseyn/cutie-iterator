@@ -8,7 +8,7 @@ class Next extends AsyncObject {
     super(iterator)
   }
 
-  definedSyncCall () {
+  syncCall () {
     return (iterator) => {
       return iterator.next()
     }
